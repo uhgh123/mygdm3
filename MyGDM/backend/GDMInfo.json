@@ -1,0 +1,519 @@
+[
+  {
+    "title": "What is Gestational Diabetes Mellitus (GDM)?",
+    "category": "About GDM",
+    "group": "Understanding GDM",
+    "sections": [
+      {
+        "heading": "Definition and Overview",
+        "content": [
+          "Gestational diabetes mellitus (GDM) is a form of diabetes first diagnosed during pregnancy.",
+          "It is characterized by elevated blood sugar (glucose) levels due to the body's inadequate insulin response to hormonal changes.",
+          "GDM usually resolves after birth but increases the risk of future type 2 diabetes for both mother and child."
+        ]
+      },
+      {
+        "heading": "Prevalence and Epidemiology",
+        "content": [
+          "Approximately 4–7% of pregnancies worldwide are affected by GDM.",
+          "Higher prevalence is observed in South Asian, Hispanic, African-American, and Pacific Islander communities."
+        ]
+      },
+      {
+        "heading": "Historical Context and Evolving Diagnostic Criteria",
+        "content": [
+          "The recognition of GDM has shifted from anecdotal observations to evidence-based criteria.",
+          "Guidelines have evolved due to studies like HAPO and institutions such as ACOG, ADA, and IADPSG."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Causes and Pathophysiology",
+    "category": "About GDM",
+    "group": "Understanding GDM",
+    "sections": [
+      {
+        "heading": "Hormonal Changes During Pregnancy",
+        "content": [
+          "The placenta releases hormones that induce insulin resistance.",
+          "This ensures glucose supply to the fetus but can cause high blood sugar in the mother if her pancreas can't compensate."
+        ]
+      },
+      {
+        "heading": "Mechanisms Behind GDM",
+        "content": [
+          "The combination of insulin resistance and insufficient insulin production leads to hyperglycemia.",
+          "Genetic and environmental factors also contribute."
+        ]
+      },
+      {
+        "heading": "Interplay of Nutritional and Metabolic Factors",
+        "content": [
+          "Pregnancy metabolism shifts from anabolic to catabolic.",
+          "This affects glucose and lipid metabolism, protein synthesis, and maternal/fetal energy balance."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Risk Factors and Who Is at Risk",
+    "category": "Risk Factors",
+    "group": "Understanding GDM",
+    "sections": [
+      {
+        "heading": "Major Risk Factors",
+        "content": [
+          "Pre-pregnancy BMI (overweight/obese)",
+          "Advanced maternal age (25–30+ years)",
+          "Family history of diabetes",
+          "Previous GDM or large baby",
+          "Ethnic background: South Asian, Hispanic, African-American, Pacific Islander",
+          "PCOS or other insulin-resistant conditions"
+        ]
+      },
+      {
+        "heading": "Protective and Modifiable Factors",
+        "content": [
+          "Regular exercise and healthy diet before and during pregnancy",
+          "Weight management and lifestyle changes reduce risk"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Screening, Diagnosis, and Testing",
+    "category": "Screening",
+    "group": "Understanding GDM",
+    "sections": [
+      {
+        "heading": "Screening Guidelines",
+        "content": [
+          "Routine screening between 24–28 weeks for average-risk individuals.",
+          "Early testing at first prenatal visit for high-risk individuals."
+        ]
+      },
+      {
+        "heading": "Tests Used",
+        "content": [
+          "Glucose Challenge Test (GCT): 50g glucose drink, non-fasting.",
+          "Oral Glucose Tolerance Test (OGTT): 75g or 100g glucose drink with fasting and timed blood tests."
+        ]
+      },
+      {
+        "heading": "Diagnostic Criteria",
+        "content": [
+          "Fasting: <95 mg/dL",
+          "1-hour post-meal: <140 mg/dL",
+          "2-hour post-meal: <120 mg/dL"
+        ]
+      },
+      {
+        "heading": "What to Expect During Testing",
+        "content": [
+          "Fast overnight if instructed.",
+          "Drink a sugary solution, get blood drawn at specific intervals.",
+          "Process takes 1–3 hours."
+        ]
+      }
+    ]
+  },
+    {
+      "title": "Symptoms and Warning Signs",
+      "category": "Symptoms",
+      "group": "Managing GDM",
+      "sections": [
+        {
+          "heading": "Clinical Presentation",
+          "content": [
+            "Many women with GDM show no symptoms.",
+            "When present, symptoms may include increased thirst, frequent urination, fatigue, and blurred vision."
+          ]
+        },
+        {
+          "heading": "Warning Signs Prompting Early Testing",
+          "content": [
+            "Family or personal history of diabetes",
+            "Abnormal weight gain during pregnancy",
+            "Glucose in routine urine tests",
+            "Symptoms of high blood sugar (e.g., fatigue, thirst)"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Potential Complications",
+      "category": "Complications",
+      "group": "Managing GDM",
+      "sections": [
+        {
+          "heading": "For the Mother",
+          "content": [
+            "Short-term risks: preeclampsia, cesarean delivery due to large baby (macrosomia)",
+            "Long-term risks: type 2 diabetes, cardiovascular disease"
+          ]
+        },
+        {
+          "heading": "For the Baby",
+          "content": [
+            "Neonatal hypoglycemia (low blood sugar after birth)",
+            "Macrosomia (large birth weight leading to birth injuries)",
+            "Other risks: jaundice, respiratory distress, higher lifetime risk of obesity and diabetes"
+          ]
+        },
+        {
+          "heading": "Clinical Follow-up Measures",
+          "content": [
+            "Newborn monitoring for blood glucose",
+            "Postpartum screening for maternal hyperglycemia"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Management and Treatment Options",
+      "category": "Treatment",
+      "group": "Managing GDM",
+      "sections": [
+        {
+          "heading": "Lifestyle Modifications",
+          "content": [
+            "Medical Nutrition Therapy (MNT) with balanced, portion-controlled meals",
+            "Safe, moderate physical activity",
+            "Weight gain targets based on pre-pregnancy BMI"
+          ]
+        },
+        {
+          "heading": "Pharmacological Interventions",
+          "content": [
+            "Insulin is the first-line medication if lifestyle changes aren’t enough",
+            "Metformin may be used under clinical supervision"
+          ]
+        },
+        {
+          "heading": "Monitoring and Self-Management",
+          "content": [
+            "Frequent blood glucose testing (fasting and post-meal)",
+            "Use of apps and tools to log and track trends",
+            "Share data with healthcare providers regularly"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dietary and Nutritional Strategies",
+      "category": "Nutrition",
+      "group": "Managing GDM",
+      "sections": [
+        {
+          "heading": "Medical Nutrition Therapy (MNT)",
+          "content": [
+            "Eat high-fiber foods, lean protein, and healthy fats",
+            "Control carbohydrate intake",
+            "Avoid refined sugars and processed foods"
+          ]
+        },
+        {
+          "heading": "Food Pairing and Meal Timing",
+          "content": [
+            "Pair carbs with protein or fat (e.g., apples with peanut butter)",
+            "Have smaller, frequent meals and snacks to prevent glucose spikes"
+          ]
+        },
+        {
+          "heading": "Culturally Tailored Guidance",
+          "content": [
+            "Use culturally familiar foods (e.g., North/South Indian diets) while maintaining glucose control",
+            "Include recipes from trusted GDM cookbooks"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Medication and Insulin Therapy",
+      "category": "Medication",
+      "group": "Managing GDM",
+      "sections": [
+        {
+          "heading": "When Medication is Necessary",
+          "content": [
+            "If lifestyle changes fail to maintain blood glucose targets, medication may be needed.",
+            "Insulin is the most common and effective treatment."
+          ]
+        },
+        {
+          "heading": "Types of Medications",
+          "content": [
+            "Insulin: long-acting, short-acting, or rapid-acting.",
+            "Metformin: sometimes used in conjunction with insulin."
+          ]
+        },
+        {
+          "heading": "Monitoring and Adjustments",
+          "content": [
+            "Regularly check blood glucose levels to adjust medication as needed.",
+            "Consult healthcare providers for personalized treatment plans."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Physical Activity and Lifestyle",
+      "category": "Lifestyle",
+      "group": "Managing GDM",
+      "sections": [
+        {
+          "heading": "Recommended Exercise Routines",
+          "content": [
+            "Engage in low-impact activities like walking, swimming, or prenatal yoga.",
+            "Aim for at least 150 minutes of moderate activity per week unless advised otherwise."
+          ]
+        },
+        {
+          "heading": "Benefits of Physical Activity",
+          "content": [
+            "Improves insulin sensitivity and blood sugar control.",
+            "Reduces stress and enhances mood.",
+            "Supports healthy weight gain during pregnancy."
+          ]
+        },
+        {
+          "heading": "Tips for Safe Exercise",
+          "content": [
+            "Start gradually and listen to your body.",
+            "Stay hydrated and wear appropriate footwear.",
+            "Consult your healthcare provider about exercise safety during pregnancy."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Emotional and Mental Well-Being",
+      "category": "Mental Health",
+      "group": "Mental & Emotional Well-being",
+      "sections": [
+        {
+          "heading": "Understanding the Emotional Impact",
+          "content": [
+            "GDM diagnosis can be emotionally challenging and stressful.",
+            "Feelings of anxiety, guilt, or fear are common.",
+            "Stress can elevate blood sugar levels and affect overall well-being."
+          ]
+        },
+        {
+          "heading": "Coping Strategies and Support",
+          "content": [
+            "Use mindfulness, relaxation techniques, and cognitive strategies.",
+            "Consider counseling or therapy if needed.",
+            "Join support groups (online or in person).",
+            "Encourage partner and family involvement for emotional support."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Postpartum Considerations",
+      "category": "Postpartum",
+      "group": "Postpartum & Long-Term Health",
+      "sections": [
+        {
+          "heading": "Immediate Post-Delivery Follow-Up",
+          "content": [
+            "Blood glucose usually normalizes after delivery.",
+            "Postpartum glucose testing (6–12 weeks) is essential.",
+            "Breastfeeding may help regulate glucose and aid weight loss."
+          ]
+        },
+        {
+          "heading": "Long-Term Health Strategies",
+          "content": [
+            "Continue healthy diet and physical activity post-pregnancy.",
+            "Schedule regular screenings for type 2 diabetes.",
+            "Maintain follow-up with diabetes educators and your care team."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Frequently Asked Questions (FAQs)",
+      "category": "FAQs",
+      "group": "Postpartum & Long-Term Health",
+      "sections": [
+        {
+          "heading": "General Information",
+          "content": [
+            "What is GDM? — It is diabetes first diagnosed during pregnancy.",
+            "Can I get GDM without risk factors? — Yes, even women with no risk can develop GDM."
+          ]
+        },
+        {
+          "heading": "Screening & Diagnosis",
+          "content": [
+            "When will I be screened? — Usually between 24–28 weeks.",
+            "Which tests are used? — Glucose challenge test and OGTT."
+          ]
+        },
+        {
+          "heading": "Management and Treatment",
+          "content": [
+            "How is GDM managed? — With diet, exercise, and sometimes medications.",
+            "What are my blood sugar targets? — Fasting <95 mg/dL, 1hr <140, 2hr <120."
+          ]
+        },
+        {
+          "heading": "Diet and Lifestyle",
+          "content": [
+            "Can I eat carbs? — Yes, focus on whole grains and pair with proteins.",
+            "What snacks are good? — Nuts, Greek yogurt, veggies with hummus."
+          ]
+        },
+        {
+          "heading": "Medication and Therapy",
+          "content": [
+            "Is metformin safe? — Yes, under supervision.",
+            "How often should I check my sugar? — Usually fasting and post-meal, per care plan."
+          ]
+        },
+        {
+          "heading": "Emotional and Social Support",
+          "content": [
+            "How do I cope emotionally? — Use support groups, counseling, and family support.",
+            "Can my partner help? — Yes, with meals, walks, and encouragement."
+          ]
+        },
+        {
+          "heading": "Postpartum and Future Pregnancies",
+          "content": [
+            "Am I at higher risk of diabetes later? — Yes, continue follow-up.",
+            "How can I reduce risk in future pregnancies? — Eat well, stay active, monitor early."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Research and Recent Developments",
+      "category": "Research",
+      "group": "Postpartum & Long-Term Health",
+      "sections": [
+        {
+          "heading": "Current Research Focus",
+          "content": [
+            "Research explores the effectiveness of mHealth apps, dietary therapies, and personalized care models.",
+            "New studies highlight the benefits of low-carbohydrate, whole-food diets over traditional high-carb approaches."
+          ]
+        },
+        {
+          "heading": "Digital Innovations",
+          "content": [
+            "Mobile apps for logging, food tracking, and glucose monitoring are growing in popularity.",
+            "User-centered co-design efforts are creating more intuitive GDM tools tailored to patients' needs."
+          ]
+        },
+        {
+          "heading": "Emerging Guidelines and Policy Updates",
+          "content": [
+            "ADA, ACOG, and global health bodies continue updating recommendations.",
+            "Encourage users to stay informed by linking to authoritative sites like ADA and ACOG."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Patient Stories and Testimonials",
+      "category": "Testimonials",
+      "group": "Postpartum & Long-Term Health",
+      "sections": [
+        {
+          "heading": "Real-Life Experiences",
+          "content": [
+            "Feature stories from women managing GDM — including diagnosis, dietary changes, insulin use, and emotional adjustments.",
+            "Include narratives about family and partner support, lifestyle changes, and personal milestones."
+          ]
+        },
+        {
+          "heading": "Interactive Community Section",
+          "content": [
+            "Offer a moderated forum or blog space where users can share experiences.",
+            "Invite guest posts from midwives, dietitians, and diabetes educators."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Resources and Tools",
+      "category": "Resources",
+      "group": "Help & Support",
+      "sections": [
+        {
+          "heading": "Educational Materials",
+          "content": [
+            "Provide downloadable guides, infographics, and visual overviews of key GDM concepts.",
+            "Link to trusted sources like ADA, ACOG, NIDDK, and WHO."
+          ]
+        },
+        {
+          "heading": "Interactive Self-Management Tools",
+          "content": [
+            "Offer blood glucose tracking charts integrated with the app.",
+            "Provide meal planners, food logs, and portion control visuals.",
+            "Include video tutorials for glucose testing and insulin use."
+          ]
+        },
+        {
+          "heading": "Local Support and Professional Contacts",
+          "content": [
+            "Maintain a directory of certified midwives, diabetes educators, and dietitians.",
+            "List support groups (in-person and online) that specialize in gestational diabetes."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Glossary and Definitions",
+      "category": "Glossary",
+      "group": "Understanding GDM",
+      "sections": [
+        {
+          "heading": "Key Terms",
+          "content": [
+            "Insulin Resistance: When cells become less responsive to insulin, leading to high blood sugar.",
+            "Macrosomia: A condition in which the baby is larger than normal at birth.",
+            "Oral Glucose Tolerance Test (OGTT): A diagnostic tool used to detect GDM by testing the body's response to sugar.",
+            "Medical Nutrition Therapy (MNT): A structured approach to nutrition used to manage medical conditions like GDM."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Legal and Privacy Information",
+      "category": "Legal",
+      "group": "Help & Support",
+      "sections": [
+        {
+          "heading": "User Data Protection",
+          "content": [
+            "Explain that health data is encrypted and stored securely.",
+            "Ensure compliance with GDPR or HIPAA, depending on the user’s region.",
+            "Describe anonymization practices for analytics or research usage."
+          ]
+        },
+        {
+          "heading": "Disclaimer",
+          "content": [
+            "The content provided is for educational purposes only.",
+            "Encourage users to consult their healthcare providers for personal medical decisions."
+          ]
+        },
+        {
+          "heading": "Copyright and Licensing",
+          "content": [
+            "Clarify ownership and permissions regarding educational material.",
+            "Provide contact details for inquiries about content use or redistribution."
+          ]
+        }
+      ]
+    }
+  ]
+  
+
+

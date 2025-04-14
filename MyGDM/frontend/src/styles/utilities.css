@@ -1,0 +1,184 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-primary: #0ea5e9;
+  --color-bg: #ffffff;
+  --color-text: #1f2937;
+  --color-border: #e5e7eb;
+  --color-muted: #6b7280;
+  --font-family: system-ui;
+  --radius: 0.5rem;
+}
+
+/* Dark mode fallback handled by ThemeContext using .dark class */
+
+@layer components {
+  /* Buttons */
+  .btn {
+    @apply inline-flex items-center justify-center px-4 py-2 text-sm font-semibold transition duration-200;
+    border-radius: var(--radius);
+    font-family: var(--font-family);
+  }
+
+  .btn-primary {
+    background-color: var(--color-primary);
+    color: white;
+  }
+
+  .btn-primary:hover {
+    filter: brightness(1.1);
+  }
+
+  .btn-outline {
+    border: 1px solid var(--color-primary);
+    color: var(--color-primary);
+    background: transparent;
+  }
+
+  .btn-outline:hover {
+    background-color: rgba(14, 165, 233, 0.1); /* faded primary */
+  }
+
+  .btn-danger {
+    background-color: #ef4444;
+    color: white;
+  }
+
+  .btn-danger:hover {
+    filter: brightness(0.9);
+  }
+
+  /* Inputs */
+  .input {
+    @apply w-full p-2 transition;
+    background-color: white;
+    border: 1px solid var(--color-border);
+    color: var(--color-text);
+    font-family: var(--font-family);
+    border-radius: var(--radius);
+  }
+
+  .input:focus {
+    outline: none;
+    border-color: var(--color-primary);
+    box-shadow: 0 0 0 3px rgba(14, 165, 233, 0.2);
+  }
+
+  /* Cards */
+  .card {
+    background-color: var(--color-bg);
+    color: var(--color-text);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius);
+    @apply shadow p-4;
+  }
+
+  /* Headings */
+  .heading {
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 1.5rem;
+    color: var(--color-text);
+    margin-bottom: 1rem;
+  }
+
+  /* Links */
+  .link {
+    color: var(--color-primary);
+  }
+
+  .link:hover {
+    text-decoration: underline;
+  }
+
+  /* Section padding */
+  .p-section {
+    @apply px-4 py-8 sm:px-6 md:px-10 lg:px-16;
+  }
+
+  .mt-section {
+    @apply mt-8 sm:mt-10 lg:mt-16;
+  }
+
+  /* Alerts */
+  .alert {
+    border-radius: var(--radius);
+    padding: 1rem;
+    font-size: 0.875rem;
+    font-weight: 500;
+  }
+
+  .alert-info {
+    background-color: #e0f2fe;
+    color: #0369a1;
+  }
+
+  .alert-success {
+    background-color: #dcfce7;
+    color: #15803d;
+  }
+
+  .alert-warning {
+    background-color: #fef9c3;
+    color: #92400e;
+  }
+
+  .alert-danger {
+    background-color: #fee2e2;
+    color: #b91c1c;
+  }
+
+  /* Badges */
+  .badge {
+    @apply px-2 py-1 text-xs font-semibold rounded-full;
+    font-family: var(--font-family);
+  }
+
+  .badge-primary {
+    background-color: var(--color-primary);
+    color: white;
+  }
+
+  .badge-success {
+    background-color: #22c55e;
+    color: white;
+  }
+
+  .badge-warning {
+    background-color: #facc15;
+    color: white;
+  }
+
+  .badge-danger {
+    background-color: #ef4444;
+    color: white;
+  }
+
+  /* Toggles */
+  .toggle {
+    @apply inline-flex items-center cursor-pointer;
+  }
+
+  .toggle input {
+    @apply sr-only;
+  }
+
+  .toggle-bg {
+    @apply w-10 h-6 rounded-full relative transition;
+    background-color: var(--color-border);
+  }
+
+  .toggle-dot {
+    @apply absolute left-1 top-1 bg-white w-4 h-4 rounded-full transition;
+  }
+
+  input:checked ~ .toggle-bg {
+    background-color: var(--color-primary);
+  }
+
+  input:checked ~ .toggle-dot {
+    @apply translate-x-4;
+  }
+}

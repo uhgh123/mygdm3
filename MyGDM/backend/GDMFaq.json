@@ -1,0 +1,262 @@
+[
+  {
+    "question": "What is gestational diabetes (GDM)?",
+    "answer": "GDM is a type of diabetes diagnosed for the first time during pregnancy, typically in the second or third trimester. It results from hormonal changes that make your body less responsive to insulin, causing blood sugar levels to rise.",
+    "category": "About GDM"
+  },
+  {
+    "question": "How is GDM different from type 1 or type 2 diabetes?",
+    "answer": "GDM only occurs during pregnancy and usually disappears after birth. Unlike type 1 (autoimmune) or type 2 (long-term insulin resistance), GDM is often temporary—but it increases the risk of developing type 2 diabetes later.",
+    "category": "About GDM"
+  },
+  {
+    "question": "Will gestational diabetes go away after my baby is born?",
+    "answer": "Yes, for most women. However, GDM significantly increases your risk of developing type 2 diabetes. Follow-up glucose testing is recommended 6–12 weeks postpartum, and every 1–3 years thereafter.",
+    "category": "About GDM"
+  },
+  {
+    "question": "What causes GDM?",
+    "answer": "Hormones from the placenta interfere with how your body uses insulin. If your pancreas can't produce enough extra insulin to compensate, blood glucose levels rise.",
+    "category": "About GDM"
+  },
+  {
+    "question": "Can I get GDM even if I’m healthy?",
+    "answer": "Yes. GDM can occur in women with no symptoms or risk factors, which is why screening is recommended in all pregnancies.",
+    "category": "About GDM"
+  },
+  {
+    "question": "What increases my risk of gestational diabetes?",
+    "answer": "Some risk factors include age over 25–30, overweight or obesity, family history of diabetes, previous GDM or large baby, PCOS, sedentary lifestyle, and certain ethnic backgrounds.",
+    "category": "GDM Risk Factors"
+  },
+  {
+    "question": "Can I reduce my risk of developing GDM?",
+    "answer": "Yes. Staying active, eating a balanced diet, and managing your weight before and during pregnancy help lower your risk.",
+    "category": "GDM Risk Factors"
+  },
+  {
+    "question": "When is screening for GDM done?",
+    "answer": "Typically between 24–28 weeks of pregnancy. High-risk individuals may be screened earlier.",
+    "category": "Screening & Diagnosis"
+  },
+  {
+    "question": "What tests are used to diagnose GDM?",
+    "answer": "The Glucose Challenge Test (GCT) and Oral Glucose Tolerance Test (OGTT) are used. GCT is a non-fasting 1-hour test; OGTT is a fasting test with multiple blood draws.",
+    "category": "Screening & Diagnosis"
+  },
+  {
+    "question": "What are the target blood sugar levels for diagnosis?",
+    "answer": "Fasting: <95 mg/dL, 1 hour after eating: <140 mg/dL, 2 hours after eating: <120 mg/dL.",
+    "category": "Screening & Diagnosis"
+  },
+  {
+    "question": "What are the risks of GDM for my baby?",
+    "answer": "Potential risks include macrosomia (large baby), neonatal hypoglycemia, jaundice, breathing issues, and higher risk of obesity or type 2 diabetes later.",
+    "category": "Potential Complications"
+  },
+  {
+    "question": "What are the risks of GDM for me?",
+    "answer": "Risks include preeclampsia, cesarean delivery, and a higher chance of developing type 2 diabetes later.",
+    "category": "Potential Complications"
+  },
+  {
+    "question": "Do complications from GDM go away after birth?",
+    "answer": "Many complications resolve, but long-term risks (like type 2 diabetes) may remain. Regular follow-up is essential.",
+    "category": "Potential Complications"
+  },
+  {
+    "question": "How is gestational diabetes treated?",
+    "answer": "Treatment includes healthy eating, physical activity, monitoring blood sugar, and using insulin or Metformin if needed.",
+    "category": "Management & Treatment"
+  },
+  {
+    "question": "What are the target blood sugar levels during pregnancy?",
+    "answer": "Fasting: <95 mg/dL, 1 hour after meals: <140 mg/dL, 2 hours after meals: <120 mg/dL.",
+    "category": "Management & Treatment"
+  },
+  {
+    "question": "Is insulin safe to use during pregnancy?",
+    "answer": "Yes. Insulin is commonly used in pregnancy and does not cross the placenta.",
+    "category": "Medications & Insulin"
+  },
+  {
+    "question": "Is Metformin safe to use during pregnancy?",
+    "answer": "Yes, Metformin is generally considered safe, though insulin may be preferred if better control is needed.",
+    "category": "Medications & Insulin"
+  },
+  {
+    "question": "Why does food pairing matter?",
+    "answer": "Pairing carbohydrates with protein or fat slows digestion and prevents sharp spikes in blood glucose.",
+    "category": "Food Pairing"
+  },
+  {
+    "question": "What are good examples of food pairings?",
+    "answer": "Examples include apple with peanut butter, eggs with whole grain toast, and Greek yogurt with berries.",
+    "category": "Food Pairing"
+  },
+  {
+    "question": "Can I eat carbs with GDM?",
+    "answer": "Yes, but focus on complex, fiber-rich carbs like whole grains, beans, and vegetables.",
+    "category": "Food Pairing"
+  },
+  {
+    "question": "What are good snack ideas for GDM?",
+    "answer": "Try Greek yogurt with nuts, boiled eggs, mixed nuts, hummus with veggies, or cottage cheese.",
+    "category": "Snack Ideas"
+  },
+  {
+    "question": "Can I have sweet snacks with GDM?",
+    "answer": "Yes, in moderation. Try dark chocolate with almonds, berries with ricotta, or a protein shake with cocoa. You can also visit our recipes page for more snack ideas.",
+    "category": "Snack Ideas"
+  },
+  {
+    "question": "Do I need a bedtime snack with GDM?",
+    "answer": "Yes, a small protein/fiber-rich snack helps keep blood sugar stable overnight.",
+    "category": "Snack Ideas"
+  },
+  {
+    "question": "How often should I test my blood sugar?",
+    "answer": "Typically 4 times a day: fasting in the morning, and 1–2 hours after each meal.",
+    "category": "Testing Blood Glucose Levels"
+  },
+  {
+    "question": "How should I track my readings?",
+    "answer": "Use a logbook, spreadsheet, or app. Clinics may request your data for review.",
+    "category": "Testing Blood Glucose Levels"
+  },
+  {
+    "question": "What if my readings are too high?",
+    "answer": "Contact your care team. They may adjust your diet or recommend medication.",
+    "category": "Testing Blood Glucose Levels"
+  },
+  {
+    "question": "Is exercise safe during pregnancy?",
+    "answer": "Yes, most of the time. Check with your doctor before starting new activities.",
+    "category": "Exercise & Lifestyle"
+  },
+  {
+    "question": "Which exercises are recommended?",
+    "answer": "Walking, swimming, prenatal yoga, and stationary cycling are great options.",
+    "category": "Exercise & Lifestyle"
+  },
+  {
+    "question": "How does exercise help manage GDM?",
+    "answer": "It lowers blood sugar, improves insulin sensitivity, reduces stress, and supports healthy weight gain.",
+    "category": "Exercise & Lifestyle"
+  },
+  {
+    "question": "Is it normal to feel anxious or overwhelmed with GDM?",
+    "answer": "Yes. Many people feel this way, but support is available to help manage it.",
+    "category": "Mental and Emotional Health"
+  },
+  {
+    "question": "What helps with stress during pregnancy?",
+    "answer": "Talking to a counselor, meditation, journaling, support groups, and setting realistic goals can help.",
+    "category": "Mental and Emotional Health"
+  },
+  {
+    "question": "Can stress affect blood sugar levels?",
+    "answer": "Yes. Stress hormones can increase glucose levels, so emotional wellbeing is important.",
+    "category": "Mental and Emotional Health"
+  },
+  {
+    "question": "How can my partner support me with GDM?",
+    "answer": "They can attend appointments, help with meals, walk with you, and provide emotional support.",
+    "category": "Partner Support"
+  },
+  {
+    "question": "Why is partner support important during pregnancy?",
+    "answer": "Support from partners improves motivation, reduces isolation, and enhances emotional wellbeing.",
+    "category": "Partner Support"
+  },
+  {
+    "question": "Why are women’s stories helpful?",
+    "answer": "They offer real-life strategies, emotional validation, and relatable experiences for managing GDM.",
+    "category": "Women Stories (Videos)"
+  },
+  {
+    "question": "Can I share my GDM story?",
+    "answer": "Yes. Many communities welcome story submissions—written or video. Just follow privacy guidelines.",
+    "category": "Women Stories (Videos)"
+  },
+  {
+    "question": "Why talk to a midwife about GDM?",
+    "answer": "Midwives provide support with nutrition, lifestyle, emotional health, and birth planning.",
+    "category": "Ask a Midwife"
+  },
+  {
+    "question": "What can I ask a midwife?",
+    "answer": "You can ask about exercise safety, birth options, breastfeeding, and managing GDM symptoms.",
+    "category": "Ask a Midwife"
+  },
+  {
+    "question": "Will GDM go away after delivery?",
+    "answer": "In most cases, yes. But follow-up testing is essential to confirm.",
+    "category": "Postpartum & Beyond"
+  },
+  {
+    "question": "What’s the postpartum follow-up plan?",
+    "answer": "Get a glucose test at 6–12 weeks postpartum and repeat screening every 1–3 years.",
+    "category": "Postpartum & Beyond"
+  },
+  {
+    "question": "Can I breastfeed if I had GDM?",
+    "answer": "Yes. Breastfeeding helps regulate blood sugar and lowers the baby’s risk of diabetes.",
+    "category": "Postpartum & Beyond"
+  },
+  {
+    "question": "How can I prevent type 2 diabetes after GDM?",
+    "answer": "Stay active, eat well, manage weight, and get regular follow-up tests.",
+    "category": "Postpartum & Beyond"
+  },
+  {
+    "question": "When is insulin prescribed for GDM?",
+    "answer": "If diet and exercise aren’t enough to keep blood sugar within target levels.",
+    "category": "Medications & Insulin"
+  },
+  {
+    "question": "How is insulin taken during pregnancy?",
+    "answer": "Usually by injection in the abdomen or thigh. Your care team will guide you.",
+    "category": "Medications & Insulin"
+  },
+  {
+    "question": "What are insulin side effects?",
+    "answer": "Low blood sugar, mild discomfort, or bruising at the injection site.",
+    "category": "Medications & Insulin"
+  },
+  {
+    "question": "What’s new in GDM research?",
+    "answer": "Personalized diets, mobile apps for self-monitoring, genetic studies, and AI-driven prediction tools.",
+    "category": "Research & Innovations"
+  },
+  {
+    "question": "What digital tools help with GDM?",
+    "answer": "Smart glucose meters, reminder apps, co-designed platforms, and digital education content.",
+    "category": "Research & Innovations"
+  },
+  {
+    "question": "Where can I find trustworthy GDM info?",
+    "answer": "Check the ADA (diabetes.org), ACOG (acog.org), JMIR (jmir.org), or NHS (nhs.uk).",
+    "category": "Research & Innovations"
+  },
+  {
+    "question": "Is GDM my fault?",
+    "answer": "No. GDM is caused by pregnancy hormones and can affect even healthy women.",
+    "category": "General FAQs"
+  },
+  {
+    "question": "Can I have a vaginal birth with GDM?",
+    "answer": "Yes. With good blood sugar control and proper monitoring, vaginal birth is possible.",
+    "category": "General FAQs"
+  },
+  {
+    "question": "Can I still enjoy food while managing GDM?",
+    "answer": "Yes! With smart planning, portion control, and flavor-rich meals, food can still be enjoyable.",
+    "category": "General FAQs"
+  },
+  {
+    "question": "Is GDM preventable?",
+    "answer": "You can reduce your risk, but not all cases are preventable. Early screening and lifestyle changes help.",
+    "category": "General FAQs"
+  }
+]

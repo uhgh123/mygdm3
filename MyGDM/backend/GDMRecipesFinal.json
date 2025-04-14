@@ -1,0 +1,292 @@
+[
+    {
+      "title": "Veggie Burgers",
+      "description": "A gestational diabetes-friendly dish suitable for balanced meals.",
+      "category": "Lunch/Dinner",
+      "prep_time_minutes": 30,
+      "cook_time_minutes": 10,
+      "servings": 1,
+      "ingredients": [
+        "1 tablespoon olive oil",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "1 cup cooked quinoa",
+        "1 cup cooked black beans",
+        "1/4 cup rolled oats",
+        "2 tablespoons chopped fresh parsley",
+        "2 tablespoons ground flaxseed",
+        "1 teaspoon smoked paprika",
+        "Salt and pepper, to taste"
+      ],
+      "instructions": [
+        "Heat olive oil in a large skillet over medium heat.",
+        "Cook onion and garlic for 5 minutes, stirring occasionally.",
+        "Combine quinoa, black beans, oats, parsley, flaxseed, paprika, salt, and pepper in a bowl.",
+        "Form mixture into 6 patties.",
+        "Cook patties in skillet for 5 minutes per side, until golden brown.",
+        "Serve."
+      ],
+      "tags": [
+        "Low Carb",
+        "Lunch",
+        "Vegetarian"
+      ]
+    },
+    {
+      "title": "Baked Parmesan Zucchini",
+      "description": "A gestational diabetes-friendly dish suitable for balanced meals.",
+      "category": "Lunch/Dinner",
+      "prep_time_minutes": 30,
+      "cook_time_minutes": 20,
+      "servings": 1,
+      "ingredients": [
+        "2 large zucchini, sliced into 1/4-inch rounds",
+        "2 tablespoons olive oil",
+        "1/4 cup grated Parmesan cheese",
+        "1 teaspoon garlic powder",
+        "Salt and pepper, to taste"
+      ],
+      "instructions": [
+        "Preheat oven to 400F (200C).",
+        "Arrange zucchini slices on a baking sheet.",
+        "Drizzle with olive oil, Parmesan cheese, garlic powder, salt, and pepper.",
+        "Toss to coat evenly.",
+        "Bake for 20 minutes until crispy and golden brown.",
+        "Serve."
+      ],
+      "tags": [
+        "Dairy",
+        "Gluten Free",
+        "Low Carb",
+        "Lunch"
+      ]
+    },
+    {
+      "title": "Roasted Cauliflower",
+      "description": "A gestational diabetes-friendly dish suitable for balanced meals.",
+      "category": "Lunch/Dinner",
+      "prep_time_minutes": 30,
+      "cook_time_minutes": 25,
+      "servings": 1,
+      "ingredients": [
+        "1 head cauliflower, cut into florets",
+        "2 tablespoons olive oil",
+        "1 teaspoon garlic powder",
+        "Salt and pepper, to taste"
+      ],
+      "instructions": [
+        "Preheat oven to 400F (200C).",
+        "Place cauliflower florets on baking sheet.",
+        "Drizzle with olive oil, garlic powder, salt, and pepper.",
+        "Toss to coat.",
+        "Bake for 25 minutes until tender and golden brown.",
+        "Serve."
+      ],
+      "tags": [
+        "Gluten Free",
+        "Low Carb",
+        "Lunch"
+      ]
+    },
+    {
+      "title": "Quinoa Salad",
+      "description": "A fresh and healthy salad option, great for any meal.",
+      "category": "Lunch",
+      "prep_time_minutes": 30,
+      "cook_time_minutes": 0,
+      "servings": 1,
+      "ingredients": [
+        "2 cups cooked quinoa",
+        "1 red bell pepper, chopped",
+        "1/2 cup frozen corn",
+        "1/4 cup chopped fresh parsley",
+        "2 tablespoons olive oil",
+        "2 tablespoons white wine vinegar",
+        "Salt and pepper, to taste"
+      ],
+      "instructions": [
+        "Combine quinoa, bell pepper, corn, and parsley in a bowl.",
+        "Whisk olive oil and vinegar in a small bowl.",
+        "Pour dressing over quinoa mixture; toss well.",
+        "Season with salt and pepper, to taste.",
+        "Serve."
+      ],
+      "tags": [
+        "Gluten Free",
+        "Lunch",
+        "Vegetarian"
+      ]
+    },
+    {
+      "title": "Baked Tofu",
+      "description": "A gestational diabetes-friendly dish suitable for balanced meals.",
+      "category": "Lunch/Dinner",
+      "prep_time_minutes": 30,
+      "cook_time_minutes": 25,
+      "servings": 1,
+      "ingredients": [
+        "1 block firm tofu, cut into cubes",
+        "2 tablespoons olive oil",
+        "1 teaspoon garlic powder",
+        "1 teaspoon smoked paprika",
+        "Salt and pepper, to taste"
+      ],
+      "instructions": [
+        "Preheat oven to 400F (200C).",
+        "Arrange tofu cubes on baking sheet.",
+        "Drizzle with olive oil, garlic powder, smoked paprika, salt, and pepper.",
+        "Toss to coat evenly.",
+        "Bake for 25 minutes until crispy and golden brown.",
+        "Serve."
+      ],
+      "tags": [
+        "Gluten Free",
+        "Lunch",
+        "Vegetarian"
+      ]
+    },
+    {
+      "title": "Spicy Roasted Chickpeas",
+      "description": "A gestational diabetes-friendly dish suitable for balanced meals.",
+      "category": "Lunch/Dinner",
+      "prep_time_minutes": 30,
+      "cook_time_minutes": 25,
+      "servings": 1,
+      "ingredients": [
+        "2 cans chickpeas, drained and rinsed",
+        "2 tablespoons olive oil",
+        "1 teaspoon chili powder",
+        "1 teaspoon garlic powder",
+        "1/2 teaspoon cumin",
+        "Salt and pepper, to taste"
+      ],
+      "instructions": [
+        "Preheat oven to 400F (200C).",
+        "Place chickpeas on baking sheet.",
+        "Drizzle with olive oil, chili powder, garlic powder, cumin, salt, and pepper.",
+        "Toss to coat evenly.",
+        "Bake for 25 minutes until crispy and golden.",
+        "Serve."
+      ],
+      "tags": [
+        "Gluten Free",
+        "Lunch",
+        "Vegetarian"
+      ]
+    },
+    {
+      "title": "Baked Falafel",
+      "description": "A gestational diabetes-friendly dish suitable for balanced meals.",
+      "category": "Lunch/Dinner",
+      "prep_time_minutes": 30,
+      "cook_time_minutes": 20,
+      "servings": 1,
+      "ingredients": [
+        "2 cans chickpeas, drained and rinsed",
+        "1/2 cup diced onion",
+        "1/2 cup chopped fresh parsley",
+        "2 cloves garlic, minced",
+        "2 tablespoons tahini",
+        "1 teaspoon ground cumin",
+        "Salt and pepper, to taste",
+        "2 tablespoons olive oil"
+      ],
+      "instructions": [
+        "Preheat oven to 400F (200C).",
+        "Combine chickpeas, onion, parsley, garlic, tahini, cumin, salt, and pepper in a food processor; pulse until chunky.",
+        "Form mixture into 12 patties and place on baking sheet.",
+        "Drizzle with olive oil.",
+        "Bake 20 minutes until crispy and golden brown.",
+        "Serve."
+      ],
+      "tags": [
+        "Gluten Free",
+        "Lunch",
+        "Vegetarian"
+      ]
+    },
+    {
+      "title": "Baked Eggplant",
+      "description": "A gestational diabetes-friendly dish suitable for balanced meals.",
+      "category": "Lunch/Dinner",
+      "prep_time_minutes": 30,
+      "cook_time_minutes": 20,
+      "servings": 1,
+      "ingredients": [
+        "2 large eggplants, sliced into 1/4-inch rounds",
+        "2 tablespoons olive oil",
+        "1/4 cup grated Parmesan cheese",
+        "1 teaspoon garlic powder",
+        "Salt and pepper, to taste"
+      ],
+      "instructions": [
+        "Preheat oven to 400F (200C).",
+        "Arrange eggplant slices on baking sheet.",
+        "Drizzle with olive oil, Parmesan cheese, garlic powder, salt, and pepper.",
+        "Toss to coat evenly.",
+        "Bake 20 minutes until tender and golden brown.",
+        "Serve."
+      ],
+      "tags": [
+        "Dairy",
+        "Gluten Free",
+        "High Protein",
+        "Lunch"
+      ]
+    },
+    {
+      "title": "Kale and Sweet Potato Hash",
+      "description": "A gestational diabetes-friendly dish suitable for balanced meals.",
+      "category": "Lunch/Dinner",
+      "prep_time_minutes": 30,
+      "cook_time_minutes": 15,
+      "servings": 1,
+      "ingredients": [
+        "2 tablespoons olive oil",
+        "1 large sweet potato, peeled and diced",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "2 cups chopped kale",
+        "Salt and pepper, to taste"
+      ],
+      "instructions": [
+        "Heat olive oil in a large skillet over medium heat.",
+        "Cook sweet potato, onion, and garlic for 10 minutes, stirring occasionally.",
+        "Add kale; cook additional 5 minutes.",
+        "Season with salt and pepper.",
+        "Serve."
+      ],
+      "tags": [
+        "Gluten Free",
+        "Low Carb",
+        "Lunch"
+      ]
+    },
+    {
+      "title": "Classic Breakfast Porridge",
+      "description": "A gestational diabetes-friendly dish suitable for balanced meals.",
+      "category": "Breakfast",
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 10,
+      "servings": 2,
+      "ingredients": [
+        "1 Cup of oats (rolled variety)",
+        "½ tsp. of cinnamon (ground)",
+        "2½ Cups of warm water",
+        "1 Cup of reduced-fat milk",
+        "1 small apple, finely grated",
+        "1 small banana, thinly sliced",
+        "½ Cup of fresh berries"
+      ],
+      "instructions": [
+        "Place oats, cinnamon, and water in a saucepan. Heat over low heat, stir for 5–7 minutes.",
+        "Simmer for 5 more minutes.",
+        "Remove from heat.",
+        "Spoon into bowls and serve with milk and fruit. Garnish with cinnamon."
+      ],
+      "tags": [
+        "Breakfast"
+      ]
+    }
+  ]
+  
